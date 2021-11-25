@@ -1,0 +1,17 @@
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\controller\UserController.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\dto\RoleDto.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\model\Role.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\model\User.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\service\impl\UserServiceImpl.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\service\impl\RoleServiceImpl.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\config\DatabaseConfiguration.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\config\AppConfiguration.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\dto\request\UserRequestDto.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\repository\RoleRepository.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\service\UserService.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\dto\response\UserResponseDto.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\config\DispatcherServletInitializer.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\repository\UserRepository.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\config\WebConfiguration.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\controller\RoleController.java
+D:\транзакцииSpring\Spring Maks\test transaction\src\main\java\com\ednach\app\service\RoleService.java

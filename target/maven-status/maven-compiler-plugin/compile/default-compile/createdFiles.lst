@@ -1,0 +1,17 @@
+com\ednach\app\controller\RoleController.class
+com\ednach\app\model\User.class
+com\ednach\app\dto\request\UserRequestDto.class
+com\ednach\app\controller\UserController.class
+com\ednach\app\service\impl\UserServiceImpl.class
+com\ednach\app\service\impl\RoleServiceImpl.class
+com\ednach\app\dto\RoleDto.class
+com\ednach\app\config\DatabaseConfiguration.class
+com\ednach\app\model\Role.class
+com\ednach\app\service\RoleService.class
+com\ednach\app\repository\RoleRepository.class
+com\ednach\app\repository\UserRepository.class
+com\ednach\app\config\WebConfiguration.class
+com\ednach\app\config\AppConfiguration.class
+com\ednach\app\config\DispatcherServletInitializer.class
+com\ednach\app\service\UserService.class
+com\ednach\app\dto\response\UserResponseDto.class
